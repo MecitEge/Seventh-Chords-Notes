@@ -8,7 +8,7 @@ new_chord = None
 
 chords_names = ["Am7", "Bm7", "Cm7", "Dm7", "Em7", "Fm7", "Gm7", "A#m7", "C#m7", "D#m7", "F#m7", "G#m7",
                 "Amaj7", "Bmaj7", "Cmaj7", "Dmaj7", "Emaj7", "Fmaj7", "Gmaj7", "A#maj7", "C#maj7", "D#maj7", "F#maj7",
-                "G#maj7", "A7", "B7", "C7", "D7", "E7", "F7", "G7", "A7", "C7", "D7", "F#7", "G7"
+                "G#maj7", "A7", "B7", "C7", "D7", "E7", "F7", "G7", "A#7", "C#7", "D#7", "F#7", "G#7"
                 ]
 chords_notes = {
     "Am7": "A C E G",
